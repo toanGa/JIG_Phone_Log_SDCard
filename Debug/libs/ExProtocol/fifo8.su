@@ -1,0 +1,15 @@
+fifo8.c:7:13:FF8_Reset	24	static
+fifo8.c:23:13:FF8_Push	16	static
+fifo8.c:43:13:FF8_Pop	16	static
+fifo8.c:64:13:FF8_GetData	32	static
+fifo8.c:87:13:FF8_PopArray	32	static
+fifo8.c:105:13:FF8_EnableProtect	16	static
+fifo8.c:116:13:FF8_DisableProtect	16	static
+fifo8.c:126:13:FF8_RewindHead	16	static
+fifo8.c:149:13:FF8_IsEnablePush	16	static
+fifo8.c:165:13:FF8_IsEnablePop	16	static
+fifo8.c:174:13:FF8_IsEmpty	16	static
+fifo8.c:183:13:FF8_IsFull	16	static
+fifo8.c:192:12:FF8_GetCount	16	static
+fifo8.c:201:12:FF8_GetAvaiLen	16	static
+fifo8.c:210:12:FF8_GetMaxSize	16	static

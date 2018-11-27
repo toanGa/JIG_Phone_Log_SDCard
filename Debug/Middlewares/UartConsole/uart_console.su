@@ -1,0 +1,2 @@
+uart_console.c:38:6:UARTwrite	16	static
+uart_console.c:87:6:UARTprintf	72	static

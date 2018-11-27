@@ -1,0 +1,2 @@
+crc8.c:73:9:crc_8	32	static
+crc8.c:100:9:update_crc_8	16	static
